@@ -1,2 +1,6 @@
 # maven related
 target/*
+
+# IDE
+*.iml
+.idea/*
